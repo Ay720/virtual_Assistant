@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useContext } from "react";
-import { UserDataContext } from "../context/userContext";
+import { UserDataContext } from "../context/UserContext";
 import Card from "../components/cards";
 import { GrDocumentUpload } from "react-icons/gr";
 import image1 from "../assets/image1.png";
