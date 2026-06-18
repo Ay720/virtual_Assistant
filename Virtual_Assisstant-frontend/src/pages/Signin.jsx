@@ -3,7 +3,7 @@ import bg from "../assets/authBg.png"
 import { AiOutlineEyeInvisible } from "react-icons/ai";
 import { IoMdEye } from "react-icons/io";
 import { useNavigate } from "react-router-dom"
-import { UserDataContext } from '../context/userContext.jsx';
+import { UserDataContext } from '../context/UserContext.jsx';
 import axios from 'axios';
 import { useEffect } from "react";
 
