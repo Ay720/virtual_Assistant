@@ -5,7 +5,7 @@ import Signin from "./pages/Signin";
 import Home from "./pages/Home";
 import Customize from "./pages/Customize";
 import Customize2 from "./pages/Customize2";
-import { UserDataContext } from "./context/userContext.jsx";
+import { UserDataContext } from "./context/UserContext.jsx";
 
 const App = () => {
   const { userData } = useContext(UserDataContext);
